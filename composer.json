@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/inputs",
-    "version":"6.2.0",
+    "name": "cliqued-media/inputs",
+    "version":"1.0.0",
     "description": "Allow adding inputs into reports",
     "keywords": ["PHP","Reporting Tools","Data Report","Report input"],
     "homepage": "https://www.koolreport.com",
